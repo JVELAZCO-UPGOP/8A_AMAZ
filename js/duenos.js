@@ -14,13 +14,13 @@ let duenos=[
         nombre: "Jhon",
         apellido: "Garcia",
         pais: "Canadá",
-        identificacion: "18080490"
+        identificacion: "18070280"
     },
     {
-        nombre: "Aneth",
-        apellido: "Arias",
+        nombre: "Alicia",
+        apellido: "Mendez",
         pais: "Colombia",
-        identificacion: "8963450"
+        identificacion: "74123698"
     }
 ];
 
