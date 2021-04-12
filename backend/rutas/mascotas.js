@@ -44,4 +44,4 @@ module.exports = function mascotasHandler(mascotas) {
             callback(404, { mensaje: "Indice No Enviado" });
         },
     };
-};
+}; 
